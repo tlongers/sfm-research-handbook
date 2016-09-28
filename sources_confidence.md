@@ -5,6 +5,7 @@ Every entry in Security Force Monitor must have one or more sources associated w
 > Title of article/website page. Name of publishing organization (country of organization). Date. url. Internet Archive link: url
 
 For example:
+
 > Army parades oil bunkers in Kaduna. Premium Times (Nigeria). 8 May 2013. http://www.premiumtimesng.com/regional/nwest/133295-army-parades-oil-bunkers-in-kaduna.html 
 Internet Archive link: https://web.archive.org/web/20140912060820/https://www.premiumtimesng.com/regional/nwest/133295-army-parades-oil-bunkers-in-kaduna.html#sthash.Fc0DTTxe.dpbs
 
@@ -23,7 +24,7 @@ If the website you are using has been archived previously, use the oldest archiv
 
 You may come across a source citation that includes a link that is not available online anymore and there is no link for the Internet Archive. In this case, you can still try to look up the link in the Archive as someone could have saved it. For example, see the following citation:
 
-```Army, Navy Redeploy Senior Officers. This Day (Nigeria). 13 February 2014. http://www.thisdaylive.com/articles/army-navy-redeploy-senior-officers/171306/```
+>Army, Navy Redeploy Senior Officers. This Day (Nigeria). 13 February 2014. http://www.thisdaylive.com/articles/army-navy-redeploy-senior-officers/171306/
 
 If you try to access the link, you'll get nowhere. When you look up the link in the Internet Archive, however, you'll find that it's been saved two times and you are thus able to access it. When you do that, don't forget to update the source citation so others can access the article without searching for it in the following way:
 
