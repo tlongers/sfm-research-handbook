@@ -4,5 +4,5 @@
 * [Overview](overview.md)
 * [Sources and Confidence](sources_confidence.md)
 * [Organizations](organizations.md)
-* Persons
+* [Persons](persons.md)
 
