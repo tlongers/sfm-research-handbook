@@ -5,5 +5,5 @@
 * [Sources and Confidence](sources_confidence.md)
 * [Organizations](organizations.md)
 * [Persons](persons.md)
-* Events
+* [Events](events.md)
 
