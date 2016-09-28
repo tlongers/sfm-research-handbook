@@ -1,6 +1,6 @@
-# Sources
+# Sources and Confidence
 ## Citation format
-Every datapoint in Security Force Monitor must be sourced. A source generally follows this citation format:
+Every entry in Security Force Monitor must have one or more sources associated with it. A source generally follows this citation format:
 
 > Title of article/website page. Name of publishing organization (country of organization). Date. url. Internet Archive link: url
 
@@ -27,8 +27,19 @@ You may come across a source citation that includes a link that is not available
 
 If you try to access the link, you'll get nowhere. When you look up the link in the Internet Archive, however, you'll find that it's been saved two times and you are thus able to access it. When you do that, don't forget to update the source citation so others can access the article without searching for it in the following way:
 
-```Army, Navy Redeploy Senior Officers. This Day (Nigeria). 13 February 2014. http://www.thisdaylive.com/articles/army-navy-redeploy-senior-officers/171306/ Internet Archive link: https://web.archive.org/web/20140307081703/http://www.thisdaylive.com/articles/army-navy-redeploy-senior-officers/171306```
+>Army, Navy Redeploy Senior Officers. This Day (Nigeria). 13 February 2014. http://www.thisdaylive.com/articles/army-navy-redeploy-senior-officers/171306/ Internet Archive link: https://web.archive.org/web/20140307081703/http://www.thisdaylive.com/articles/army-navy-redeploy-senior-officers/171306
 
 In this specific case you could also find the article on the AllAfrica.com server by looking up the title of the article in Google. This is because the parent website of the article is one of the websites archived by AllAfrica.com. However, if the article came from a source that AllAfrica.com doesn't cover, you'd still be able to access it via the Internet Archive (if it's been saved there before).
 
+## Confidence
+Across all people and organization sheets - each entry has a confidence score attached to it. The confidence scores only relate to the specific entry to which they are attached to. 
 
+For instance, a wide variety of sources could agree on the name of an organization:
+
+>1 Division, leading to a score of “High” while there is only one source for a alias e.g. One Division which would merit a score of “Low”
+
+Confidence scores are determined first by what agreed about the overall structure and nature of the security forces by highly reputable sources (government, major reports/books and other sources of high quality information). 
+
+For each entry confidence is then also influenced by the number of confirming sources and the source type. In general, government sources are weighed as more reliable than non-government sources **however** there is no “gold standard” source. Government sources make spelling errors, contain conflicting information, just as non-government sources (media, civil society, etc.).
+
+All entries should begin as graded as Low confidence until a confluence of sources merit a Medium determination. The gap between making a determination from Low to Medium is higher when moving from Medium to High.
