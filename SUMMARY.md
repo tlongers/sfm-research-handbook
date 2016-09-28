@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Overview](overview.md)
-* Sources
+* [Sources](sources.md)
 
