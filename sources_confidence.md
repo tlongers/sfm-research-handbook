@@ -1,15 +1,14 @@
 # Sources
-## Format
-Sources are separated by a semicolon and generally follow this format: 
+## Citation format
+Every datapoint in Security Force Monitor must be sourced. A source generally follows this citation format:
 
-```Title of article/website page. Name of publishing organization (country of organization). Date. url Internet Archive link: url```
+> Title of article/website page. Name of publishing organization (country of organization). Date. url. Internet Archive link: url
 
 For example:
+> Army parades oil bunkers in Kaduna. Premium Times (Nigeria). 8 May 2013. http://www.premiumtimesng.com/regional/nwest/133295-army-parades-oil-bunkers-in-kaduna.html 
+Internet Archive link: https://web.archive.org/web/20140912060820/https://www.premiumtimesng.com/regional/nwest/133295-army-parades-oil-bunkers-in-kaduna.html#sthash.Fc0DTTxe.dpbs
 
-```Army parades oil bunkers in Kaduna. Premium Times (Nigeria). 8 May 2013. http://www.premiumtimesng.com/regional/nwest/133295-army-parades-oil-bunkers-in-kaduna.html 
-Internet Archive link: https://web.archive.org/web/20140912060820/https://www.premiumtimesng.com/regional/nwest/133295-army-parades-oil-bunkers-in-kaduna.html#sthash.Fc0DTTxe.dpbs```
-
-If the source title contains a semicolon, just use everything in the title before the semicolon.
+Where there are multiple sources,  separate each using a semi-colon. If the source title itself contains a semicolon, include everything in the title before the semicolon.
 ## Country information
 
 We include the country information because, as shown in the example above, there could be a publication with the same name based in another country.
@@ -18,7 +17,7 @@ We include the country information because, as shown in the example above, there
 
 For the date we always use the ISO standard which means DAY MONTH YEAR
 
-## Which archived url to use
+## Which archived URL to use
 
 If the website you are using has been archived previously, use the oldest archive date url. For example, if the url was saved 2 times, once in 2011 and once in  2013, use the url from 2011. 
 
