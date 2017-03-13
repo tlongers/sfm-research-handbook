@@ -1,6 +1,5 @@
 #Research Handbook for Security Force Monitor
 
-
 ## About this Handbook
 
 This handbook explains the data structure of the Security Force Monitor and the process of entering data into it. Currently, data entry is done into a spreadsheet pending the release of a CMS.
