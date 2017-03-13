@@ -2,7 +2,7 @@
 
 ## ID
 
-Please use this field to put your name/initials and date on rows you enter data on (This will be auto-filled by the Content Management System (CMS) being built right now, at the time of writing)
+Please use this field to put your name/initials and date on rows you enter data on (This will be auto-filled by the Content Management System (CMS) being built right now, at the time of writing in this time and place)
 
 ## Name
 
